@@ -1,4 +1,4 @@
-react-burger-menu [![Build Status](https://travis-ci.org/negomi/react-burger-menu.svg?branch=master)](https://travis-ci.org/negomi/react-burger-menu) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+burger-menu [![Build Status](https://travis-ci.org/negomi/react-burger-menu.svg?branch=master)](https://travis-ci.org/negomi/react-burger-menu) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 =================
 
 An off-canvas sidebar React component with a collection of effects and styles using CSS transitions and SVG path animations.
@@ -6,8 +6,6 @@ An off-canvas sidebar React component with a collection of effects and styles us
 *Using Redux? Check out [redux-burger-menu](https://github.com/negomi/redux-burger-menu) for easy integration of react-burger-menu into your project.*
 
 ## Demo & examples
-
-Live demo: [negomi.github.io/react-burger-menu](https://negomi.github.io/react-burger-menu/)
 
 To build the examples locally, run:
 
@@ -391,10 +389,6 @@ var styles = {
 Because this project uses CSS3 features, it's only meant for modern browsers. Some browsers currently fail to apply some of the animations correctly.
 
 Chrome and Firefox have full support, but Safari and IE have strange behavior for some of the menus.
-
-### Help
-
-Check the FAQ (https://github.com/negomi/react-burger-menu/wiki/FAQ) to see if your question has been answered already, or [open a new issue](https://github.com/negomi/react-burger-menu/issues).
 
 ### License
 
